@@ -2,7 +2,7 @@
 
 - 👋 I am learning Android.
 - 👀 I’m interested in mobile application development. 
-- 🌱 I’m currently working on Physics Notes for Class 11, an Android application.  
+- 🌱 I’m currently working on Covid-19 stas, an Android application.  
 - 💞️ I’m looking forward to work on an Android projects with a team and develop my programming skills. 
 - 📫 If you have any query, please contact me on upadhyaybikram@gmail.com
 
